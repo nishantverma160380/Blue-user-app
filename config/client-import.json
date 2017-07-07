@@ -1,0 +1,13 @@
+{
+    "clientId": "vanilla",
+    "rootUrl": "http://localhost:8080/vanilla",
+    "enabled": true,
+    "redirectUris": [
+        "http://localhost:8080/vanilla/*"
+    ],
+    "webOrigins": [
+        "http://localhost:8080"
+    ],
+    "publicClient": false,
+    "secret": "e25e403d-8fb7-4fb4-bfa6-c54d36e8c7b3"
+}

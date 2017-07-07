@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\Workspace\Blue\nhs-user-app\keycloak-app-profile-jee-vanilla.iml" filepath="D:\Workspace\Blue\nhs-user-app\keycloak-app-profile-jee-vanilla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nhs-user-app.iml" filepath="$PROJECT_DIR$/nhs-user-app.iml" />
+    </modules>
+  </component>
+</project>

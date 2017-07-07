@@ -1,0 +1,9 @@
+{
+  "realm": "nishant",
+  "auth-server-url": "https://blue.testlab.nhs.uk/auth",
+  "ssl-required": "external",
+  "resource": "vanilla",
+  "credentials": {
+    "secret": "e25e403d-8fb7-4fb4-bfa6-c54d36e8c7b3"
+  }
+}
